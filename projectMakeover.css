@@ -1,0 +1,26 @@
+body,html{
+  background-color: #343334;
+  width: 100%;
+  margin:0;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.description {
+    border-radius: 25px;
+    background: #484748;
+    padding: 20px; 
+    margin:0 auto;
+    width: 90%;
+    height: fit-content;  
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  
