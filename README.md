@@ -3,7 +3,7 @@ This repository contains all the files of my **Project** on **Data Analysis of A
 
 **Instructions for going through the project** : 
 
-When you open the index.html file there is a possibility that the Powe BI report that I have embedded in the index.html file won't open due to security features of Microsoft Power BI. So, I request you to check out the same report using the Automotive Industry Data Analysis.pbix file that I have provided in this repo.
+When you open the index.html file there is a possibility that the Power BI report that I have embedded in the index.html file won't open due to security features of Microsoft Power BI. So, I request you to check out the same report using the Automotive Industry Data Analysis.pbix file that I have provided in this repo.
 
 **Description of the project** :
 
