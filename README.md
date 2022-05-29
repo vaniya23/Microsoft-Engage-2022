@@ -12,7 +12,8 @@ I also used HTML and CSS for creating the Power BI embedded webpage.
 The data provided in the form of CSV file had information about companies that are producers and manufacturers of cars. It had details about different models and their variants manufactured by these companies, along with their features, specifications and prices. For eg. there was information about Tata Nano Genx, its variants like XT, XE, EMAX XM etc. that are available in the market, their features, specifications and price.
 
 **The generated report displays information about** :
-The number of cars manufactured by different companies that are present in our data.
+The number of cars manufactured by different companies that are present in our data. 
+
 The different fuel types of the cars and the number of cars produced of a particular fuel type.
 Mileage Class - the number of cars that are manufactured belonging to the categories - Economic, Fuel efficient, Average and Poor.
 The number of cars that are produced of each transmission types i.e Manual, Automatic, AMT, DCT and CVT.
